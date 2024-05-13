@@ -10,9 +10,9 @@
 </div>
 
 <div align="center">
-    <img src="/img/disclaimer.png" style="width: 400px; height: auto;" >
+    <h2>Disclaimer</h2>
+    <img src="/img/disclaimer.png" style="width: 700px; height: auto;" >
     <br>
-    <em>Disclaimer!</em>
 </div>
 
 ------
