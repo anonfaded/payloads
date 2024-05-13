@@ -9,6 +9,12 @@
 
 </div>
 
+<div align="center">
+    <img src="/img/disclaimer.png" style="width: 400px; height: auto;" >
+    <br>
+    <em>Disclaimer!</em>
+</div>
+
 ------
 
 ## Keystroke Injections (HID)
